@@ -4,7 +4,7 @@
   "description": "Hooks for throttling heavy calculation",
   "main": "dist/index.js",
   "type": "dist/index.d.ts",
-  "author": "NakZMichael",
+  "author": "nakzmichael",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
