@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "Hooks for throttling heavy calculation",
   "main": "dist/index.js",
+  "type": "dist/index.d.ts",
   "author": "NakZMichael",
   "license": "MIT",
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "build": "tsc",
     "lint": "eslint ./src --ext .js,.jsx,.ts,.tsx",

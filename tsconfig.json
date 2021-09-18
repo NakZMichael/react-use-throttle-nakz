@@ -4,6 +4,7 @@
     "lib": ["dom", "ES2015"],
     "strict": true,
     "sourceMap": true,
+    "declaration": true,
     "outDir": "./dist",
     "forceConsistentCasingInFileNames": true,
     "module": "ES2015",
