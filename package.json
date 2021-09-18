@@ -1,6 +1,6 @@
 {
   "name": "react-use-throttle-nakz",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hooks for throttling heavy calculation",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
